@@ -38,71 +38,43 @@
                         </ul>
                     </li>
                     <li class="header">Network Map</li>
-                      <li >
-                          <router-link to="/demo1">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Fast Map</router-link>
-                      </li>
-                      <li >
-                          <router-link to="/demo2">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Live Map</router-link>
-                      </li>
-                      <li >
-                          <router-link to="/demo3">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Favorite</router-link>
-                      </li>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Fast Map</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Live Map</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Favorite</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Fast Map</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
                     <li class="header">Network Monitor</li>
-                      <li >
-                          <router-link to="/demo1">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Live Monitor</router-link>
-                      </li>
-                      <li >
-                          <router-link to="/demo2">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Alert Setting</router-link>
-                      </li>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Live Monitor</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Alert Setting</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
                   <li class="header">App</li>
-                      <li >
-                          <router-link to="/demo1">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Manager</router-link>
-                      </li>
-                      <li >
-                          <router-link to="/demo2">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Editor </router-link>
-                      </li>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Manager</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Editor</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
                   <li class="header">Task</li>
-                      <li >
-                          <router-link to="/demo1">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Quick Task</router-link>
-                      </li>
-                      <li >
-                          <router-link to="/demo2">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Schedule Task</router-link>
-                      </li>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Quick Task</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Schedule Task</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
                   <li class="header">Analysis</li>
-                      <li >
-                          <router-link to="/demo1">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Analysis Map</router-link>
-                      </li>
-                      <li >
-                          <router-link to="/demo2">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Analysis Document</router-link>
-                      </li>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Analysis Map</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Analysis Document</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
                   <li class="header">System</li>
-                      <li >
-                          <router-link to="/demo1">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> User</router-link>
-                      </li>
-                      <li >
-                          <router-link to="/demo2">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Data Bee</router-link>
-                      </li>
-                      <li >
-                          <router-link to="/demo2">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Data Setting</router-link>
-                      </li>
-                      <li >
-                          <router-link to="/demo2">
-                              <avatar username="Blank Page" :size='20' color="#fff"></avatar> Monitor</router-link>
-                      </li>
+                  <a href="#"> <i class="ti-desktop"></i> <span>User</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Data Bee</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Data Setting</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                  <a href="#"> <i class="ti-desktop"></i> <span>Monitor</span> <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i></span> </a>
                     <li>
                         <br>
                         <br>
