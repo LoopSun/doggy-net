@@ -37,44 +37,60 @@
                             </li>
                         </ul>
                     </li>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-dashboard"></i> <span>Dashboard</span></router-link>
+                      </li>
                     <li class="header">Network Map</li>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Fast Map</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Live Map</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Favorite</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Fast Map</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                      <li>
+                            <router-link to="/demo1"> <i class="ti-world"></i> <span>Fast Map</span></router-link>
+                      </li>
+                      <li>
+                            <router-link to="/demo1"> <i class="ti-map"></i> <span>Live Map</span></router-link>
+                      </li>
+                      <li>
+                            <router-link to="/demo1"> <i class="ti-heart"></i> <span>Favorite</span></router-link>
+                      </li>
                     <li class="header">Network Monitor</li>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Live Monitor</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Alert Setting</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                      <li>
+                            <router-link to="/demo1"> <i class="ti-video-camera"></i> <span>Live Monitor</span></router-link>
+                      </li>
+                      <li>
+                            <router-link to="/demo1"> <i class="ti-announcement"></i> <span>Alert Setting</span></router-link>
+                      </li>
                   <li class="header">App</li>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Manager</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Editor</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-email"></i> <span>Manager</span></router-link>
+                    </li>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-email"></i> <span>Editor</span></router-link>
+                    </li>
                   <li class="header">Task</li>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Quick Task</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Schedule Task</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-hummer"></i> <span>Quick Task</span></router-link>
+                    </li>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-time"></i> <span>Schedule Task</span></router-link>
+                    </li>
                   <li class="header">Analysis</li>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Analysis Map</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Analysis Document</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-file"></i> <span>Analysis Map</span></router-link>
+                    </li>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-info-alt"></i> <span>Analysis Document</span></router-link>
+                    </li>
                   <li class="header">System</li>
-                  <a href="#"> <i class="ti-desktop"></i> <span>User</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Data Bee</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Data Setting</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
-                  <a href="#"> <i class="ti-desktop"></i> <span>Monitor</span> <span class="pull-right-container">
-          <i class="fa fa-angle-left pull-right"></i></span> </a>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-user"></i> <span>User</span></router-link>
+                    </li>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-eye"></i> <span>Data Bee</span></router-link>
+                    </li>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-panel"></i> <span>Data Setting</span></router-link>
+                    </li>
+                    <li>
+                            <router-link to="/demo1"> <i class="ti-search"></i> <span>Monitor</span></router-link>
+                    </li>
                     <li>
                         <br>
                         <br>
