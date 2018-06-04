@@ -1,5 +1,5 @@
 <template>
-    <transition name="slice">
+    <transition name="el-fade-in-linear">
         <div class="content-wrapper dashboard-wrapper">
             <!-- Main content -->
             <section class="content">
@@ -260,6 +260,35 @@
 </template>
 <script>
   export default {
-    name: 'dashboard-first'
+    name: 'dashboard-first',
+    data: function () {
+      return {
+        firstCardData: {
+          one: {
+            name: '',
+            description: '',
+            value: ''
+          },
+          two: {
+            name: '',
+            description: '',
+            value: ''
+          },
+          three: {
+            name: '',
+            description: '',
+            value: ''
+          },
+          four: {
+            name: '',
+            description: '',
+            value: ''
+          }
+        }
+      }
+    },
+    methods: {
+
+    }
   }
 </script>
